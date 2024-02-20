@@ -1,3 +1,4 @@
 # apnaclg-demo
-This is my first Git Repository
-Auther-Ankur jaat
+This is my first Git Repository.
+<br>
+Author-Ankurjaat
